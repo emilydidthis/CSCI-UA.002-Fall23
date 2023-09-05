@@ -31,7 +31,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/01_Class-Intro.pdf" >class-intro.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/00_Class-Intro.pdf" >class-intro.pdf</a>
 <a href="https://editor.p5js.org/madebyemily/sketches/da_cNu-Qs">`Random Sketch`</a>
 
 </div>
