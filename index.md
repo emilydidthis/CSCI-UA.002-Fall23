@@ -72,7 +72,7 @@ There will be eleven quizzes that go along with each online learning module. The
 ## Materials
 
 ### Software
-The main software package that we will be working with this semester is the Python programming language. Python is an open-source project, and anyone can get their own copy free of charge at [http://www.python.org/download](http://www.python.org/download). We will be using Python 3.10.6 this semester. Installation instructions are posted to the Common Syllabus.
+The main software package that we will be working with this semester is the Python programming language. Python is an open-source project, and anyone can get their own copy free of charge at [http://www.python.org/download](http://www.python.org/download). Installation instructions are posted to the Common Syllabus under Module #1.
 
 ### Book (optional)
 [Starting Out with Python (5th Edition*) by Tony Gaddis](https://www.pearson.com/store/p/starting-out-with-python/P100002991999/9780136912330)
