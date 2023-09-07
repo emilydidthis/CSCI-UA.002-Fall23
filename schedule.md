@@ -68,9 +68,9 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-01.pdf">module-1.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/02-debugging.py" ><code>debugging.py</code></a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/02-commenting.py" ><code>commented-code.py</code></a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-01.pdf">module-01.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/01-debugging.py" ><code>debugging.py</code></a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/01-commenting.py" ><code>commented-code.py</code></a>
 
 </div>
 </div>
