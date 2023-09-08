@@ -58,12 +58,15 @@ Thursday, Sept 7
 Due:  
 - [Self-Paced Learning Module #1](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php) (due before class)
 - Gaddis (textbook) Chapters #1 & #2 (Third Edition: Chapters 1 & 2; Second Edition: Chapters 1 & 2)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
 
 To do:  
-<!-- - [Assignment #1]({{ site.url }}{{ site.baseurl }}/assignments/01.html) -->
-- Assignment #1
+- [Assignment #1]({{ site.url }}{{ site.baseurl }}/assignments/01.html)
 - [Self-Paced Learning Module #2](https://cs.nyu.edu/elearning/CSCI_UA_0002/module02.php)
 - [Quiz #2](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+
 </div>
 <div class="week-column materials" markdown="1">
 
