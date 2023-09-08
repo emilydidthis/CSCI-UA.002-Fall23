@@ -27,6 +27,7 @@ Due:
 To do:  
 - [Self-Paced Learning Module #1](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php)
 - [Quiz #1](https://brightspace.nyu.edu/d2l/home/223178)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
 </div>
 <div class="week-column materials" markdown="1">
 
