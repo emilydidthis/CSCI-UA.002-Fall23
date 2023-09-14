@@ -39,7 +39,7 @@ To do:
 </div>
 <br>
 
-Thursday, Sept 14
+Thursday, Sept 7
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -82,7 +82,7 @@ To do:
 <!-- ------------------------------------------------ -->
 ## Week 2
 
-Thursday, Sept 7
+Thursday, Sept 14
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -112,6 +112,7 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-02.pdf">module-02.pdf</a>
+
 
 </div>
 </div>
