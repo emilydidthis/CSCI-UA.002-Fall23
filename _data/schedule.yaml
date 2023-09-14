@@ -1,0 +1,30 @@
+
+schedule:
+  - week_number: 1
+    classes: 
+      - topics:
+        - Welcome to the class!
+        - "Lecture: What is Programming?"
+        - Introductions
+        - Classroom agreements
+        - Review course syllabus
+        due:
+        - nothing
+        assigned: |
+          Self-Paced Learning Module #1
+          Quiz #1
+          Post a question on Ed Discussion
+        files:
+        - name: what-is-the-internet.pdf
+          path: /assets/slides/01_Website-Internet.pdf
+          type: slides
+  - week_number: 2
+    classes:
+      - topics: Unix + HTML
+        assigned: 
+        - "Chapter 4: Creating a Simple Page"
+        - "Assignment #1"
+        files:
+        - name: operating-systems.pdf
+          path: /assets/slides/02_Unix.pdf
+          type: slides

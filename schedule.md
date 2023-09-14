@@ -78,3 +78,40 @@ To do:
 
 </div>
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 2
+
+Thursday, Sept 7
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Commenting/Pseudocode
+- Data types
+- Data type conversion
+<!-- - Errors and error types - Using the IDLE debugger -->
+- Formatting strings and numbers
+- Programming workshop #1
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- [Assignment #1 ]({{ site.url }}{{ site.baseurl }}/assignments/01.html)(midnight)
+
+To do:  
+
+- [Self-Paced Learning Module #3](https://cs.nyu.edu/elearning/CSCI_UA_0002/module03.php)
+- [Quiz #3](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-02.pdf">module-02.pdf</a>
+
+</div>
+</div>
