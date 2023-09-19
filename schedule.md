@@ -116,3 +116,69 @@ To do:
 
 </div>
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 3
+Tuesday, Sept 19
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- One-way selection statements (“if”)
+- Boolean Operators & Boolean Expressions
+- Two-way selection statements (“if”, “else”)
+- Nested selection statements
+- String comparison
+- Multi-way selection statements (“if”, “elif”, “else”)
+- Logical operators (“and”, “or”, “not”)
+- Boolean variables
+- Generating random numbers
+
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #3](https://cs.nyu.edu/elearning/CSCI_UA_0002/module03.php)
+- [Quiz #3](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+To do:  
+- [Assignment #2 ]({{ site.url }}{{ site.baseurl }}/assignments/02.html)
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-03.pdf" >module-03.pdf</a>
+
+</div>
+</div>
+<br>
+
+Thursday, Sept 21
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Programming Workshop
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Assignment #2 ]({{ site.url }}{{ site.baseurl }}/assignments/02.html)(midnight)
+
+To do:  
+- [Self-Paced Learning Module #4](https://cs.nyu.edu/elearning/CSCI_UA_0002/module0.php)
+- [Quiz #4](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+
+
+</div>
+</div>
