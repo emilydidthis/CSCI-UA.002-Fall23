@@ -169,7 +169,7 @@ Due:
 - [Assignment #2 ]({{ site.url }}{{ site.baseurl }}/assignments/02.html)(midnight)
 
 To do:  
-- [Self-Paced Learning Module #4](https://cs.nyu.edu/elearning/CSCI_UA_0002/module0.php)
+- [Self-Paced Learning Module #4](https://cs.nyu.edu/elearning/CSCI_UA_0002/module04.php)
 - [Quiz #4](https://brightspace.nyu.edu/)
 - Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
 
