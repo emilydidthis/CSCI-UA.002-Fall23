@@ -69,6 +69,15 @@ A weekly assignment will be presented in the other class period. The professor a
 ## Quizzes
 There will be eleven quizzes that go along with each online learning module. These quizzes, which contain a series of multiple-choice questions, are worth a small portion of your final grade. Quizzes are delivered via NYU Brightspace and can be attempted up to three times—your highest score will be the one recorded. Quizzes must be completed before class on the day in which they are due. Unlike assignments, no late submissions will be accepted for missed quizzes.
 
+## Exams
+### Midterm 
+Thursday, October 26
+### Final – Section 008
+Monday, December 18 | 2:00pm-3:50pm | [Room TBD](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+### Final – Section 012
+Monday, December 18 | 6:00pm-7:50pm | [Room TBD](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+
+
 ## Materials
 
 ### Software
