@@ -28,6 +28,9 @@ Do your best to keep up with assignments. 10% will be deducted for each class da
 
 Assignments that you turn in should be your own work. It’s fine to talk to other students and to get assistance in how to do something, but you should not ask another person or algorithm to do the work for you. For reference, here is the Computer Science Department’s [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html).
 
+### Grace Days
+Sometimes there are unforeseen situations that may impede your progress. As a result you are being given 10 grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don’t waste them simply by procrastinating). You don’t need to do anything special to use these “grace” days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
+
 </div>
 
 
