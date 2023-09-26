@@ -182,3 +182,69 @@ To do:
 
 </div>
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 4
+Tuesday, Sept 26
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Introduction to repetition structures and loops
+- Condition controlled loops (the “while” loop)
+- Infinite loops
+- The "break" statement
+- Using an accumulator variable to calculate running totals
+- Augmented assignment operators
+- Using sentinel values to control execution flow
+- The "break" statement
+- Data validation using a "while" loop
+
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #4](https://cs.nyu.edu/elearning/CSCI_UA_0002/module04.php)
+- [Quiz #4](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+To do:  
+- [Assignment #3]({{ site.url }}{{ site.baseurl }}/assignments/02.html)
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-04.pdf" >module-04.pdf</a>
+<a href="https://pythontutor.com/" >Python Tutor Code Visualizer</a>
+</div>
+</div>
+<br>
+
+Thursday, Sept 28
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Programming Workshop
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Assignment #3 ]({{ site.url }}{{ site.baseurl }}/assignments/03.html)(midnight)
+
+To do:  
+- [Self-Paced Learning Module #5](https://cs.nyu.edu/elearning/CSCI_UA_0002/module05.php)
+- [Quiz #5](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+
+
+</div>
+</div>
