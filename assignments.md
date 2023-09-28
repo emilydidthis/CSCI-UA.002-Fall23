@@ -31,6 +31,9 @@ Assignments that you turn in should be your own work. It’s fine to talk to oth
 ### Grace Days
 Sometimes there are unforeseen situations that may impede your progress. As a result you are being given 10 grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don’t waste them simply by procrastinating). You don’t need to do anything special to use these “grace” days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
 
+### Getting Feedback on Your Assignments
+If you believe the grading on an assignment is unfair or if you have questions as to why you received a certain grade, please fill out this [**form**](https://forms.gle/B9s8zD3AaBHPF1GdA). Note that all grading inquiries must be submitted within 21 days (3 weeks) of the assignment’s original closing date.
+
 </div>
 
 
