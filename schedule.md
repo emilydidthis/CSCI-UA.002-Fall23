@@ -248,3 +248,67 @@ To do:
 
 </div>
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 5
+Tuesday, Oct 3
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Count controlled loops (the “for” loop)
+- The range() function
+- Using loop targets in calculations
+- User controlled ranges
+- Using the range() function to iterate over ranges in reverse order
+- Count controlled loops (continued)
+- Basic input validation
+- Nested Loops
+
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #5](https://cs.nyu.edu/elearning/CSCI_UA_0002/module05.php)
+- [Quiz #5](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+To do:  
+- [Assignment #4]({{ site.url }}{{ site.baseurl }}/assignments/04.html)
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-05.pdf" >module-05.pdf</a>
+</div>
+</div>
+<br>
+
+Thursday, Oct 5
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Programming Workshop
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Assignment #4 ]({{ site.url }}{{ site.baseurl }}/assignments/04.html)(midnight)
+
+To do:  
+- [Self-Paced Learning Module #6](https://cs.nyu.edu/elearning/CSCI_UA_0002/module05.php)
+- [Quiz #6](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+
+</div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+
+
+</div>
+</div>
