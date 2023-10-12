@@ -23,25 +23,46 @@ title: Schedule + Class Notes
 {% assign class_num = class_num | plus: 1 %}
 <div class="week" markdown="1">
 
+<!--------------------- TOPICS --------------------------->
 <div class="week-column topics" markdown="1">
 
 ### Topics
+<ul> <!-- for some reason if I just use - to specify list, it'll put nest a <p> tag inside an <li> and I don't want that -->
 {% for topic in class.topics %}
-- {{ topic }}
+<li>{{ topic }}</li>
 {% endfor%}
+</ul>
 
 </div>
 
+<!--------------------- ASSIGNED --------------------------->
+{% if class.assigned[0].size > 0 %} <!-- only create div if there is content-->
 <div class="week-column assigned" markdown="1">
 
 ### Assigned
 <!-- Due:   -->
-{% for hw in class.assigned %}
-- {{ hw }}
+Due:
+
+<ul>
+{% for hw in class.due %}
+<li>{{ hw }}</li>
 {% endfor%}
+</ul>
+
+<!-- Assigned:   -->
+Assigned:
+<ul>
+{% for hw in class.assigned %}
+<li><a href="{{ hw.path }}" >{{ hw.name }}</a></li>
+{% endfor%}
+</ul>
+
 
 </div>
+{% endif %}
+<!--------------------- MATERIALS --------------------------->
 
+{% if class.files[0].name.size > 1 %} <!-- only create div if there is content-->
 <div class="week-column materials" markdown="1">
 
 ### Materials
@@ -49,14 +70,18 @@ title: Schedule + Class Notes
 
 {% for file in class.files %}
 {% if file.type == "code" %}
-<a href="{{ site.url }}{{ site.baseurl }}{{ file.path }}" >`{{ file.name }}`</a>
+  <a href="{{ site.url }}{{ site.baseurl }}{{ file.path }}" >`{{ file.name }}`</a>
+{% elsif file.type == "external code" %}
+  <a href="{{ file.path }}" >`{{ file.name }}`</a>
+{% elsif file.type == "download" %}
+  <a href="{{ site.url }}{{ site.baseurl }}{{ file.path }}" >*{{ file.name }}*</a>
 {% else %}
   <a href="{{ site.url }}{{ site.baseurl }}{{ file.path }}" >{{ file.name }}</a>
 {% endif %}
 {% endfor %}
 
-</div>
-
+ </div> <!-- end of Materials -->
+{% endif %}
 </div>
 <br> 
 

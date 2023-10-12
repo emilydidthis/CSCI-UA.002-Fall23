@@ -312,3 +312,97 @@ To do:
 
 </div>
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 6
+Thursday, Oct 12
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Nested Loops (cont'd)
+- Introduction to writing your own functions
+- Variable scope (Global vs. Local variables)
+- Passing arguments to functions
+- Global variables and global constants
+- Writing value returning functions
+- Input, Processing, Output notation (IPO)
+- Modules & Modular Design
+
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #6](https://cs.nyu.edu/elearning/CSCI_UA_0002/module06.php)
+- [Quiz #6](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+
+To do:  
+- [Assignment #5]({{ site.url }}{{ site.baseurl }}/assignments/05.html)
+</div>
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 7
+Tuesday, Oct 17
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Programming Workshop
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Assignment #5 ]({{ site.url }}{{ site.baseurl }}/assignments/05.html)(midnight)
+
+
+</div>
+</div>
+<br>
+
+Thursday, Oct 19
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Functions (cont'd)
+- Midterm Survey/Review
+
+</div>
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 8
+Tuesday, Oct 24
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Midterm Review
+</div>
+</div>
+<br>
+
+Thursday, Oct 26
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Midterm Exam
+</div>
+
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Assignment #6 ]({{ site.url }}{{ site.baseurl }}/assignments/06.html)(midnight)
+To do:  
+- [Self-Paced Learning Module #7](https://cs.nyu.edu/elearning/CSCI_UA_0002/module07.php)
+- [Quiz #7](https://brightspace.nyu.edu/)
+- Post a question on [Ed Discussion](https://edstem.org/us/courses/41979/discussion/)
+</div>
+
+</div>

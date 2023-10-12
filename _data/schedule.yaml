@@ -9,15 +9,48 @@ schedule:
         - Classroom agreements
         - Review course syllabus
         due:
-        - nothing
-        assigned: |
-          Self-Paced Learning Module #1
-          Quiz #1
-          Post a question on Ed Discussion
+        - Nothing
+        - Something
+        assigned:
+        - name: "Self-Paced Learning Module #1"
+          path: https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php
+        - name: "Quiz #1"
+          path: https://brightspace.nyu.edu/d2l/home/223178
+        - name: Post a question on Ed Discussion
+          path: https://edstem.org/us/courses/41979/discussion/
         files:
-        - name: what-is-the-internet.pdf
-          path: /assets/slides/01_Website-Internet.pdf
+        - name: class-intro.pdf
+          path: /assets/slides/00_Class-Intro.pdf
           type: slides
+        - name: Random Sketch
+          path: https://editor.p5js.org/madebyemily/sketches/da_cNu-Qs
+          type: external code
+      - topics:
+        - Installing Python
+        - IDLE Integrated Development Environment (IDE)
+        - Writing your first program
+        - Function calls
+        - Strings & String Literals
+        - Variables
+        - The “input” function
+        - Numeric Literals & basic math operations
+        due:
+        - Nothing
+        - Something
+        assigned:
+        - name: "Self-Paced Learning Module #1"
+          path: https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php
+        - name: "Quiz #1"
+          path: https://brightspace.nyu.edu/d2l/home/223178
+        - name: Post a question on Ed Discussion
+          path: https://edstem.org/us/courses/41979/discussion/
+        files:
+        - name: class-intro.pdf
+          path: /assets/slides/00_Class-Intro.pdf
+          type: slides
+        - name: Random Sketch
+          path: https://editor.p5js.org/madebyemily/sketches/da_cNu-Qs
+          type: external code
   - week_number: 2
     classes:
       - topics: Unix + HTML
