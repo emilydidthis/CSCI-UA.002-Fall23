@@ -379,6 +379,15 @@ Thursday, Oct 19
 - Midterm Survey/Review
 
 </div>
+
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+To Do:  
+- [Assignment #6 ]({{ site.url }}{{ site.baseurl }}/assignments/06.html)
+
+
+</div>
 </div>
 
 <!-- ------------------------------------------------ -->
@@ -405,7 +414,8 @@ Thursday, Oct 26
 
 ### Assigned
 Due:  
-- [Assignment #6 ]({{ site.url }}{{ site.baseurl }}/assignments/06.html)(midnight)
+- [Assignment #6 ]({{ site.url }}{{ site.baseurl }}/assignments/06.html)(midnight)  
+
 To do:  
 - [Self-Paced Learning Module #7](https://cs.nyu.edu/elearning/CSCI_UA_0002/module07.php)
 - [Quiz #7](https://brightspace.nyu.edu/)
