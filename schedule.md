@@ -367,6 +367,12 @@ Due:
 
 
 </div>
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/workshop-05.pdf" >workshop-05.pdf</a>
+
+</div>
 </div>
 <br>
 
