@@ -394,6 +394,14 @@ To Do:
 
 
 </div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-06-pt2.pdf" >module-06-pt2.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/midterm-topics.pdf" >midterm-topics.pdf</a>
+
+</div>
 </div>
 
 <!-- ------------------------------------------------ -->
