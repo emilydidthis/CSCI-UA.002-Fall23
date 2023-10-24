@@ -413,6 +413,13 @@ Tuesday, Oct 24
 ### Topics
 - Midterm Review
 </div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/midterm-review.pdf" >midterm-review.pdf</a>
+
+</div>
 </div>
 <br>
 
