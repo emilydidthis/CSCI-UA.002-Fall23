@@ -72,10 +72,10 @@ There will be eleven quizzes that go along with each online learning module. The
 ## Exams
 ### Midterm 
 Thursday, October 26
-### Final – Section 008
-Monday, December 18 | 2:00pm-3:50pm | [Room TBD](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
-### Final – Section 012
-Monday, December 18 | 6:00pm-7:50pm | [Room TBD](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+### [Final – Section 008](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+Monday, December 18 | 2:00pm-3:50pm | Tisch LC11
+### [Final – Section 012](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+Monday, December 18 | 6:00pm-7:50pm | 12WV L120
 
 
 ## Materials

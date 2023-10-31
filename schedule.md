@@ -444,3 +444,355 @@ To do:
 </div>
 
 </div>
+
+<!-- ------------------------------------------------ -->
+## Week 9
+Tuesday, October 31
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- String manipulation and processing text-based data
+- String slicing
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #7](https://cs.nyu.edu/elearning/CSCI_UA_0002/module07.php)
+
+To do:  
+- [Self-Paced Learning Module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php)
+- [Quiz #8](https://brightspace.nyu.edu/d2l/home/223178)
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-07.pdf">module-07.pdf</a>
+</div>  -->
+</div>
+<br>
+Thursday, Nov 2
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- In-class programming assignment
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- Nothing
+
+To do:  
+- [Assignment #7 ]({{ site.url }}{{ site.baseurl }}/assignments/07.html)
+</div>
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials -->
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/18-module8.pdf">module8.pdf</a> -->
+
+<!-- </div> -->
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 10
+Tuesday, Nov 7
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- The “list” data type
+- Working with lists
+- Sorting lists
+- Getting the maximum and minimum values from a list
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php)
+
+To do:  
+- [Self-Paced Learning Module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.php)
+- [Quiz #9](https://brightspace.nyu.edu/d2l/home/223178)
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-08.pdf">module-08.pdf</a>
+</div> -->
+</div>
+<br>
+
+Thursday, Nov 9
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- In-class programming assignment
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- Assignment #7
+
+To do:  
+- Assignment #8
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+
+</div> -->
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 11
+
+Tuesday, Nov 14
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Unpacking strings into lists
+- Obtaining string data from the web
+- File input & output
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.php)
+
+
+To do:  
+- [Self-Paced Learning Module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.php)
+- [Quiz #10](https://brightspace.nyu.edu/d2l/home/223178)
+</div>
+<!-- <div class="week-column materials" markdown="1"> -->
+
+<!-- ### Materials -->
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-09.pdf">module-09.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/testscores.txt" download>`testscores.txt`</a> -->
+<!-- </div> -->
+</div>
+
+<br>
+
+Thursday, Nov 16
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- In-class programming assignment
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- Assignment #8
+
+To do:  
+- Assignment #9
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+</div> -->
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 12
+Tuesday, Nov 21
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- The "dictionary" data structure
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:  
+- [Self-Paced Learning Module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.php)
+
+
+To do:  
+- [Self-Paced Learning Module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+- [Quiz #11](https://brightspace.nyu.edu/d2l/home/223178)
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials -->
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-10.pdf">module-10.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-list.py">`world-series-list.py`</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-dict.py">`world-series-dict.py`</a> -->
+<!--<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/class-roster-majors-years.csv">roster.csv</a>
+<a href="{{ site.url }}{{ site.baseurl }}/code/roster.py">roster.py</a>
+<a href="{{ site.url }}{{ site.baseurl }}/code/sorting-lists-101.py">sorting-lists-101.py</a> -->
+<!-- </div> -->
+</div>
+
+<br>
+
+Thursday, Nov 23
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+**NO CLASS: THANKSGIVING BREAK**
+</div>
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 13
+Tuesday, Nov 28
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- In-class programming assignment
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- Assignment #9
+
+To do:  
+- Assignment #10
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+
+</div> -->
+</div>
+
+<br>
+
+Thursday, Nov 30
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- Object Oriented Programming
+</div>
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- [Self-Paced Learning Module #11 ](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+
+
+To do:  
+- Nothing
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-11.pdf">module-11.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">dict-review.py</a> 
+</div> -->
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 13
+Tuesday, Dec 5
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- In-class programming assignment
+</div>
+<div class="week-column assigned" markdown="1">
+
+
+### Assigned
+Due:
+- Assignment #10
+
+To do:  
+- Assignment #11
+</div>
+
+
+</div>
+
+<br>
+
+Thursday, Dec 7
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- **Review for final exam**
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
+</div> -->
+
+</div>
+
+
+<!-- ------------------------------------------------ -->
+## Week 14
+Tuesday, Dec 12
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- **Review for final exam**
+</div>
+
+<!-- <div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
+</div> -->
+
+</div>
+<br>
+Thursday, Dec 14
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+- **Review for final exam**
+- Course Wrap-up
+</div>
+
+<div class="week-column assigned" markdown="1">
+
+### Assigned
+Due:
+- Assignment #11 (no late submissions accepted)
+
+</div>
+
+</div>
+
+<!-- ------------------------------------------------ -->
+## Week 15
+Monday, December 18
+<div class="week" markdown="1">
+<div class="week-column topics" markdown="1">
+
+### Topics
+[**FINAL EXAM**](https://cs.nyu.edu/dynamic/courses/exams/?level=UA) 
+</div>
+
+</div>
