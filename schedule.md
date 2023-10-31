@@ -447,7 +447,7 @@ To do:
 
 <!-- ------------------------------------------------ -->
 ## Week 9
-Tuesday, October 31
+Tuesday, Oct 31
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -466,11 +466,11 @@ To do:
 - [Quiz #8](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
 
-<!-- <div class="week-column materials" markdown="1">
+<div class="week-column materials" markdown="1">
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-07.pdf">module-07.pdf</a>
-</div>  -->
+</div> 
 </div>
 <br>
 Thursday, Nov 2
