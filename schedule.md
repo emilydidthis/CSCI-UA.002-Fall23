@@ -575,12 +575,12 @@ To do:
 - [Self-Paced Learning Module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.php)
 - [Quiz #10](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
-<!-- <div class="week-column materials" markdown="1"> -->
+<div class="week-column materials" markdown="1"> 
 
-<!-- ### Materials -->
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-09.pdf">module-09.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/testscores.txt" download>`testscores.txt`</a> -->
-<!-- </div> -->
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-09.pdf">module-09.pdf</a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/code/testscores.txt" download>`testscores.txt`</a> -->
+</div>
 </div>
 
 <br>
