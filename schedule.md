@@ -629,16 +629,16 @@ To do:
 - [Quiz #11](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
 
-<!-- <div class="week-column materials" markdown="1">
+<div class="week-column materials" markdown="1">
 
-### Materials -->
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-10.pdf">module-10.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-list.py">`world-series-list.py`</a>
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-10.pdf">module-10.pdf</a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-list.py">`world-series-list.py`</a>
 <a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-dict.py">`world-series-dict.py`</a> -->
 <!--<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/class-roster-majors-years.csv">roster.csv</a>
 <a href="{{ site.url }}{{ site.baseurl }}/code/roster.py">roster.py</a>
 <a href="{{ site.url }}{{ site.baseurl }}/code/sorting-lists-101.py">sorting-lists-101.py</a> -->
-<!-- </div> -->
+</div>
 </div>
 
 <br>
