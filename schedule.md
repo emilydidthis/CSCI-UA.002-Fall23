@@ -633,8 +633,8 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-10.pdf">module-10.pdf</a>
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-list.py">`world-series-list.py`</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-dict.py">`world-series-dict.py`</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-list.py">`world-series-list.py`</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/world-series-dict.py">`world-series-dict.py`</a>
 <!--<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/class-roster-majors-years.csv">roster.csv</a>
 <a href="{{ site.url }}{{ site.baseurl }}/code/roster.py">roster.py</a>
 <a href="{{ site.url }}{{ site.baseurl }}/code/sorting-lists-101.py">sorting-lists-101.py</a> -->
@@ -675,6 +675,7 @@ To do:
 
 ### Materials
 
+
 </div> -->
 </div>
 
@@ -698,12 +699,12 @@ To do:
 - Nothing
 </div>
 
-<!-- <div class="week-column materials" markdown="1">
+<div class="week-column materials" markdown="1">
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-11.pdf">module-11.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">dict-review.py</a> 
-</div> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">`dict-review.py`</a> 
+</div>
 </div>
 
 <!-- ------------------------------------------------ -->
