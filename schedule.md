@@ -740,11 +740,23 @@ Thursday, Dec 7
 - **Review for final exam**
 </div>
 
-<!-- <div class="week-column materials" markdown="1">
+<div class="week-column assigned" markdown="1">
+
+
+### Assigned
+Due:
+- Nothing
+
+To do:  
+- Practice Exam
+</div>
+
+<div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
-</div> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/final-exam-info.pdf">final-exam-info.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/reference-sheet.pdf">reference-sheet.pdf</a>
+</div>
 
 </div>
 
