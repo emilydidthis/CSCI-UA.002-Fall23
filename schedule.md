@@ -771,11 +771,11 @@ Tuesday, Dec 12
 - **Review for final exam**
 </div>
 
-<!-- <div class="week-column materials" markdown="1">
+<div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
-</div> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/practice-final-paper.pdf">practice-final-paper-version.pdf</a>
+</div>
 
 </div>
 <br>
