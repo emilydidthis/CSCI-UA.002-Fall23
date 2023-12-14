@@ -796,6 +796,12 @@ Due:
 
 </div>
 
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/final-review.pdf">final-review-agenda.pdf</a>
+</div>
+
 </div>
 
 <!-- ------------------------------------------------ -->
