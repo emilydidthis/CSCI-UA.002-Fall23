@@ -800,6 +800,7 @@ Due:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/final-review.pdf">final-review-agenda.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/mock-final-answers.pdf">practice-final-paper-ANSWERS.pdf</a>
 </div>
 
 </div>
